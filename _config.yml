@@ -15,6 +15,9 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace: ''
+  tab_replace: ""
 deploy:
-  type: ''
+  type: ""
+theme_config:
+  menu:
+    About: /about/
