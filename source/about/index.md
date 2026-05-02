@@ -1,6 +1,7 @@
 ---
 title: About
-date: 2026-05-02T10:10:20.029Z
+date: 2026-05-02T11:36:14.292Z
+tags: []
+categories: []
 ---
 
-This blog is managed with CMS for Hexo.
